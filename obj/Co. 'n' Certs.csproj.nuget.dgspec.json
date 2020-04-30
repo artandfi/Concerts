@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Co. 'n' Certs\\Co. 'n' Certs\\Co. 'n' Certs.csproj": {}
+    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Co. 'n' Certs.csproj": {}
   },
   "projects": {
-    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Co. 'n' Certs\\Co. 'n' Certs\\Co. 'n' Certs.csproj": {
+    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Co. 'n' Certs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Co. 'n' Certs\\Co. 'n' Certs\\Co. 'n' Certs.csproj",
+        "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Co. 'n' Certs.csproj",
         "projectName": "Co. 'n' Certs",
-        "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Co. 'n' Certs\\Co. 'n' Certs\\Co. 'n' Certs.csproj",
+        "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Co. 'n' Certs.csproj",
         "packagesPath": "C:\\Users\\Artyom\\.nuget\\packages\\",
-        "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Co. 'n' Certs\\Co. 'n' Certs\\obj\\",
+        "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
