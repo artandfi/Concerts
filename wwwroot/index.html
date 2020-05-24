@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Жанри - Co 'n' certs</title>
+</head>
+<body>
+    <h3>Додати жанр</h3>
+
+    <form action="javascript:void(0);" method="POST" onsubmit="addGenre()">
+        <input type="text" id="add-name" />
+        <input type="submit" value="Додати"/>
+    </form>
+
+    <div id="editCategory">
+        <h3>Редагувати жанр</h3>
+        <form action="javascript:void(0);" onsubmit="updateGenre()">
+            <input type="hidden" id="edit-id" />
+            <input type="text" id="edit-name" />
+            <input type="submit" value="Зберегти" />
+            <a onclick="closeInput()" aria-label="Close">&times;</a>
+        </form>
+    </div>
+
+    <table>
+        <tr>
+            <th>Назва</th>
+        </tr>
+        <tbody id="genres"></tbody>
+    </table>
+
+    <script src="js/Genres.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getGenres();
+    </script>
+</body>
+</html>

@@ -26,6 +26,7 @@ namespace Concerts
         {
             string connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<ConcertsContext>(options => options.UseSqlServer(connection));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddControllers();
         }
 
@@ -35,6 +36,9 @@ namespace Concerts
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
 
             app.UseRouting();
             app.UseEndpoints(endpoints =>
