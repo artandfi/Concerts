@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj": {}
+    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj": {}
   },
   "projects": {
-    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj": {
+    "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj",
+        "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj",
         "projectName": "Concerts",
-        "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj",
+        "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj",
         "packagesPath": "C:\\Users\\Artyom\\.nuget\\packages\\",
-        "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\obj\\",
+        "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -54,10 +54,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.2, )"
-            },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.6.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

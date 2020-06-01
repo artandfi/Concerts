@@ -29,6 +29,7 @@ function addGenre() {
             addNameTextBox.value = '';
         })
         .catch(error => console.error('Не вдалося додати жанр', error));
+    document.getElementById('add-name').value = '';
 }
 
 function deleteGenre(id) {

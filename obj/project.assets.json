@@ -8674,11 +8674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj",
+      "projectUniqueName": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj",
       "projectName": "Concerts",
-      "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\Concerts.csproj",
+      "projectPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\Concerts.csproj",
       "packagesPath": "C:\\Users\\Artyom\\.nuget\\packages\\",
-      "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лаба 2\\Concerts\\obj\\",
+      "outputPath": "D:\\Женя\\Студматериалы\\2 КУРС\\2 СЕМЕСТР\\ІС та ТП\\Лабы\\Лаба 2\\Concerts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
